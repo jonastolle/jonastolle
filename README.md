@@ -6,6 +6,8 @@
 
 - [**Preprints and publications on arXiv**](https://arxiv.org/a/tolle_j_1.html)
 - [**Research profile at Aalto University**](https://research.aalto.fi/en/persons/jonas-t%C3%B6lle)
+- [**Google Scholar**](https://scholar.google.de/citations?user=qx5Rr1YAAAAJ&hl=en)
+- [**ORCID**](https://orcid.org/0000-0002-6020-4131): 0000-0002-6020-4131
 
 ## Teaching
 
