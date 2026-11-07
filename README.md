@@ -2,6 +2,11 @@
 
 [jonas-toelle.com](https://jonas-toelle.com)
 
+## Research
+
+- [**Preprints and publications on arXiv**](https://arxiv.org/a/tolle_j_1.html)
+- [**Research profile at Aalto University**](https://research.aalto.fi/en/persons/jonas-t%C3%B6lle)
+
 ## Teaching
 
 - [**Numerical Analysis lecture notes**](https://github.com/jonastolle/Numerical_Analysis/blob/Materials/Lecture_Notes_Numerical_Analysis.md): lecture notes for MS-C1650 Numerical Analysis at Aalto University.
