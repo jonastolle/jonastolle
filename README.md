@@ -4,16 +4,16 @@
 
 ## Web tools
 
+### Study planners for Aalto University School of Science
+
+- [**Bachelor's majors study planner**](https://jonastolle.github.io/aalto-sci-bachelor-majors-study-planner/): prerequisite map, teaching periods, model plans and credit check for the eight majors of the Bachelor's Programme in Science and Technology.
+- [**Master's majors study planner**](https://jonastolle.github.io/aalto-sci-master-majors-study-planner/): the same for the School of Science master's majors (unofficial, in development).
+
 ### Reading trainers
 
 - [**Tibetan Reading Trainer**](https://jonastolle.github.io/tibetan-uchen-trainer/): read Tibetan words and sentences in uchen and umê scripts and type the transliteration (Nebesky-Wojkowitz, Wylie or ALA-LC), with feedback on each syllable.
 - [**Hiragana Reading Trainer**](https://jonastolle.github.io/hiragana-trainer/): read hiragana words and sentences and type the romanization.
 - [**Katakana Reading Trainer**](https://jonastolle.github.io/katakana-trainer/): read katakana words and sentences and type the romanization (Hepburn, Kunrei-shiki or Nihon-shiki).
-
-### Study planners for Aalto University School of Science
-
-- [**Bachelor's majors study planner**](https://jonastolle.github.io/aalto-sci-bachelor-majors-study-planner/): prerequisite map, teaching periods, model plans and credit check for the eight majors of the Bachelor's Programme in Science and Technology.
-- [**Master's majors study planner**](https://jonastolle.github.io/aalto-sci-master-majors-study-planner/): the same for the School of Science master's majors (unofficial, in development).
 
 ### Fitness
 
