@@ -2,6 +2,10 @@
 
 [jonas-toelle.com](https://jonas-toelle.com)
 
+## Teaching
+
+- [**Numerical Analysis lecture notes**](https://github.com/jonastolle/Numerical_Analysis/blob/Materials/Lecture_Notes_Numerical_Analysis.md): lecture notes for MS-C1650 Numerical Analysis at Aalto University.
+
 ## Web tools
 
 ### Study planners for Aalto University School of Science
@@ -18,7 +22,3 @@
 ### Fitness
 
 - [**7 Minute Workout**](https://jonastolle.github.io/7-minutes-workout-tool/): timer for the standard 7 minute workout, with exercise pictures and sound cues.
-
-## Teaching
-
-- [**Numerical Analysis lecture notes**](https://github.com/jonastolle/Numerical_Analysis/blob/Materials/Lecture_Notes_Numerical_Analysis.md): lecture notes for MS-C1650 Numerical Analysis at Aalto University.
